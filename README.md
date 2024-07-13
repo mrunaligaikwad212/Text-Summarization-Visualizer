@@ -1,1 +1,1 @@
-# Text-Summarization-Visualizer
+# Text-Visualizer
