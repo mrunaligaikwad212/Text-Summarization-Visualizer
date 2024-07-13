@@ -42,6 +42,9 @@ https://github.com/mrunaligaikwad212/Text-Summarization-Visualizer
   Analysis metrics (e.g., readability scores, sentiment analysis)
   ![Screenshot 2024-07-13 091900](https://github.com/user-attachments/assets/b6b0a7dc-811f-43de-afc2-9352f917a94a)
   ![Screenshot 2024-07-13 091900](https://github.com/user-attachments/assets/558c934b-ffdc-4f2d-8694-261decac0710)
+  ![Screenshot 2024-07-13 091735](https://github.com/user-attachments/assets/40b2cd99-ba22-4ef5-91e5-9b955bf68cb7)
+  ![Screenshot 2024-07-13 092106](https://github.com/user-attachments/assets/fb08c70a-7f17-42e2-9d2e-9c4f056e5d68)
+
 # To run the project 
 1. Use Libraries of Python
 2. Use cmd 'streamlit run app.py' to run the project
