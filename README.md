@@ -40,6 +40,8 @@ https://github.com/mrunaligaikwad212/Text-Summarization-Visualizer
   Summarization options (e.g., extractive, abstractive)
   Visualization types (e.g., word cloud, frequency distribution, entity visualization)
   Analysis metrics (e.g., readability scores, sentiment analysis)
+  ![Screenshot 2024-07-13 091900](https://github.com/user-attachments/assets/b6b0a7dc-811f-43de-afc2-9352f917a94a)
+  ![Screenshot 2024-07-13 091900](https://github.com/user-attachments/assets/558c934b-ffdc-4f2d-8694-261decac0710)
 # To run the project 
 1. Use Libraries of Python
 2. Use cmd 'streamlit run app.py' to run the project
